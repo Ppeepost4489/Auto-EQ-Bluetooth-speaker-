@@ -1,5 +1,5 @@
 # AutoEq
-AutoEq is a tool for automatically equalizing headphones.
+TestAutoEq is a tool for automatically equalizing headphones.
 
 Go to **[autoeq.app](https://autoeq.app)** to get started.
 
